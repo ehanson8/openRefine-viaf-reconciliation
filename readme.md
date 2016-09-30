@@ -1,9 +1,8 @@
-#OpenRefine VIAF Reconciliation Macro
+#OpenRefine VIAF Reconciliation Script
 
-This macro reconciles a list of names against the Virtual International Authority File (VIAF) API to find possible matches and display URIs from VIAF, Library of Congress (LC) and International Standard Name Identifier (ISNI) 
-for the most relevant match. While this automated search is efficient, it is not always accurate so the results of this script always require manual review.
+This script reconciles a list of names against the Virtual International Authority File (VIAF) API to find possible matches and display URIs from VIAF, Library of Congress (LC) and International Standard Name Identifier (ISNI) for the most relevant match. While this automated search is efficient, it is not always accurate so the results of this script always require manual review.
 
-##Using the macro
+##Using the script
 
 1. Create a new project in OpenRefine using the 'sample-organization-names.csv' file that is included in this repository. 
 2. Click on the 'Undo / Redo' tab
