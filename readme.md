@@ -1,6 +1,6 @@
 #OpenRefine VIAF Reconciliation Script
 
-This script reconciles a list of names against the Virtual International Authority File (VIAF) API to find possible matches and display URIs from VIAF, Library of Congress (LC) and International Standard Name Identifier (ISNI) for the most relevant match. While this automated search is efficient, it is not always accurate so the results of this script always require manual review.
+This OpenRefine script reconciles a list of names against the Virtual International Authority File (VIAF) API to find possible matches and display URIs from VIAF, Library of Congress (LC) and International Standard Name Identifier (ISNI) for the most relevant match. While this automated search is efficient, it is not always accurate so the results of this script always require manual review.
 
 ##Using the script
 
